@@ -1,10 +1,8 @@
-# Project Name
 
-Short description of the project.
 
 ## Description
 
-This project contains the necessary source files, including `app.js` for routing, database configuration, and other functionalities, creating a RESTful API. The database schema is provided in `db.sql`.
+This project contains the necessary source files, including `app.js` for routing, database configuration, and other functionalities, creating a RESTful API. The database schema is provided in `db.sql`. Additionally, Dockerfile is included for containerization, enabling easy deployment and scalability using Docker.
 
 ## Script Folder
 
