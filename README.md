@@ -1,5 +1,4 @@
-**GitHub Project Explanation:
-**
+**GitHub Project Explanation:**
 
 **RESTful API Source Code:** The src directory houses the code for your RESTful API.
 
