@@ -2,50 +2,28 @@
 
 Short description of the project.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Built With](#built-with)
-- [Contributing](#contributing)
-- [License](#license)
+## Description
 
-## Introduction
+This project contains the necessary source files, including `app.js` for routing, database configuration, and other functionalities, creating a RESTful API. The database schema is provided in `db.sql`.
 
-Brief overview of the project and its purpose.
+## Script Folder
 
-## Getting Started
+The `script` folder contains setup, start, and stop scripts for managing Docker containers associated with the project.
 
-Instructions on how to get the project up and running on a local machine.
+## Docker Image
 
-### Prerequisites
+A Docker image for this project has been built and is ready for deployment.
 
-List of software and tools required to run the project.
+## Docker Compose
 
-### Installation
+A YAML file (`docker-compose.yml`) is provided for Docker Compose configuration.
 
-Step-by-step guide on how to install and configure the project.
+## Tags
 
-## Usage
-
-Instructions on how to use the project, including examples if applicable.
-
-## Deployment
-
-Guidelines for deploying the project, such as Docker or other deployment methods.
-
-## Built With
-
-List of technologies and frameworks used in the project.
-
-## Contributing
-
-Guidelines for contributing to the project, including information on how to submit pull requests and report issues.
-
-## License
-
-Information about the license under which the project is distributed.
-
+Add tags here to categorize and enhance discoverability, such as:
+- #Docker
+- #NodeJS
+- #JavaScript
+- #Routing
+- #Database
+- #RESTfulAPI
